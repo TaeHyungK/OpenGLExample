@@ -187,6 +187,7 @@ obj/
 /out/
 
 # User-specific configurations
+.idea/
 .idea/caches/
 .idea/libraries/
 .idea/shelf/
